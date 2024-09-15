@@ -1,4 +1,4 @@
-# semna12
+# semana12
 #creacion de un programa para una biblioteca mediante la creacion de la clase libro y de diversas funcionlidades para el uso de un programa que ayude al bibliotecario de manera eficiente el estado de un libo y en donde se encuentra.
 
 n ejemplo de código en Python para un Sistema de Gestión de Biblioteca Digital que cumple con los requisitos que mencionaste:
